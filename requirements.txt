@@ -1,0 +1,5 @@
+numpy>=2.0
+matplotlib>=3.9
+torch>=2.5
+jupyterlab>=4.0
+ipykernel>=6.29
