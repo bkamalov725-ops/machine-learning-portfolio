@@ -9,12 +9,15 @@ The projects focus on understanding the complete ML workflow: preparing data, de
 | Project | Tools | Topics | Result |
 |---|---|---|---|
 | [Linear Regression: NumPy to PyTorch](linear_regression/) | Python, NumPy, PyTorch, Matplotlib | MSE, numerical and analytical gradients, autograd, gradient descent, mini-batches, validation | Validation MSE ≈ 0.224 |
+| [Logistic Regression: EDA to Nonlinear Boundaries](logistic_regression/) | Python, pandas, scikit-learn, PyTorch, Seaborn | BCE, classification metrics, standardization, PCA, polynomial features, data-leakage prevention | Work in progress |
 
 ## Skills demonstrated
 
 - Python for numerical computing and data analysis
 - NumPy implementations of ML algorithms from first principles
 - PyTorch models, autograd, optimizers, `Dataset`, and `DataLoader`
+- Exploratory data analysis with pandas, Matplotlib, and Seaborn
+- Feature preprocessing and dimensionality reduction with scikit-learn
 - Training and validation workflows
 - Model evaluation with loss curves and residual analysis
 - Reproducible experiments in Jupyter notebooks
@@ -40,9 +43,13 @@ Open a notebook and run all cells from top to bottom.
 machine-learning-portfolio/
 ├── README.md
 ├── requirements.txt
-└── linear_regression/
+├── linear_regression/
+│   ├── README.md
+│   ├── Week_01_Lab_Linear_regression.html
+│   └── Week_01_Lab_Linear_regression.ipynb
+└── logistic_regression/
     ├── README.md
-    └── Week_01_Lab_Linear_regression.ipynb
+    └── 02-logistic-regression-ru.ipynb
 ```
 
 More projects will be added as the portfolio develops.

@@ -58,4 +58,6 @@ All three implementations converge to nearly the same fitted line. The mini-batc
 
 [Open the completed notebook](Week_01_Lab_Linear_regression.ipynb)
 
+[Open the exported HTML report](Week_01_Lab_Linear_regression.html)
+
 Run every cell from top to bottom to reproduce the saved results. The notebook contains assertions for all eight implementation tasks.
