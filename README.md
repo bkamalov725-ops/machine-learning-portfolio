@@ -4,6 +4,8 @@ A growing collection of practical machine-learning projects implemented from fir
 
 The projects focus on understanding the complete ML workflow: preparing data, defining a model and loss function, optimizing parameters, validating results, and interpreting model behavior.
 
+New project: [Hidden Pairs - Decision Trees, Ensembles and SVM](decision_tree_classifier/). Includes the completed tree/ensemble lab and the team's selected competition SVM, with validation ROC-AUC **0.947921**, a reproducible prediction notebook, and an experiment summary.
+
 ## Projects
 
 | Project | Tools | Topics | Result |

@@ -1,0 +1,8 @@
+# Environment used to verify the lab and the fixed final SVM configuration.
+numpy==2.4.3
+pandas==3.0.1
+scikit-learn==1.8.0
+joblib==1.5.3
+threadpoolctl==3.6.0
+jupyterlab>=4.0,<5
+ipykernel>=6.29,<8

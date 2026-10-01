@@ -1,0 +1,12 @@
+# Competition data: obtain from the competition, not from this repository.
+/train.csv
+/validation.csv
+/test.csv
+/sample_submission.csv
+# Generated predictions, fitted models and search artifacts.
+/runs/
+/svm_dense_runs/
+/submission*.csv
+*.joblib
+__pycache__/
+.ipynb_checkpoints/
