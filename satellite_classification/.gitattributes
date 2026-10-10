@@ -1,0 +1,4 @@
+# Keep the submitted source and notebook byte-stable on Windows checkouts.
+* text eol=lf
+# Preserve the exact archived notebook bytes, including its original newlines.
+notebooks/solution_kaggle.ipynb -text

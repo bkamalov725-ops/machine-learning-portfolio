@@ -1,0 +1,8 @@
+# Versions recorded in the successful Kaggle run; not a complete lockfile.
+# Python 3.13.15, CUDA 12.8, cuDNN 91900, two Tesla T4 GPUs.
+# Kaggle already supplies the CUDA-enabled torch and torchvision builds.
+torch==2.11.0
+torchvision==0.26.0
+numpy==2.1.3
+pandas==2.3.3
+# Pillow, plotting, sklearn and Jupyter versions were not recorded in the report.

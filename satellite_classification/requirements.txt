@@ -1,0 +1,12 @@
+# Compatible development/test environment; install matching CUDA torch/vision
+# builds separately when needed. See the successful Kaggle versions below.
+torch>=2.11,<2.12
+torchvision>=0.26,<0.27
+numpy>=2.1,<3
+pandas>=2.3,<3
+Pillow>=10
+matplotlib>=3.9
+scikit-learn>=1.5
+ipython>=8
+nbformat>=5.10
+jupyterlab>=4
